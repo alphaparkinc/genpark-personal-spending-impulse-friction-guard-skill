@@ -1,0 +1,29 @@
+{
+  "name": "genpark-personal-spending-impulse-friction-guard-skill",
+  "version": "1.0.0",
+  "description": "Behavioral personal spending impulse guard enforcing cooling-off friction timers and net work-hour wage conversions.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "personal-finance",
+    "impulse-guard",
+    "behavioral-economics",
+    "personal-agent",
+    "zero-dependency",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "evaluate_purchase_intent",
+      "description": "Evaluate prospective purchase for emotional impulsiveness and work-hour cost."
+    },
+    {
+      "name": "calculate_work_hour_equivalence",
+      "description": "Convert dollar amount into post-tax working hours."
+    },
+    {
+      "name": "run_benchmark_spending_guard",
+      "description": "Run impulse shopping friction test cases."
+    }
+  ]
+}
